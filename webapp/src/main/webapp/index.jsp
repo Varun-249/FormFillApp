@@ -5,6 +5,10 @@
     <hr>
     <br>
 
+    <label for="aadhar"><b>name</b></label>
+    <input type="text" placeholder="Enter aadhar" name="aadhar" id="aadhar" required>
+    <br>
+
     <label for="name"><b>name</b></label>
     <input type="text" placeholder="Enter name" name="name" id="name" required>
     <br>
