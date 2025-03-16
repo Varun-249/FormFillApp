@@ -9,7 +9,11 @@
     <input type="text" placeholder="Enter aadhar" name="aadhar" id="aadhar" required>
     <br>
 
-    <label for="name"><b>name</b></label>
+    <label for="pancard"><b>Email</b></label>
+    <input type="text" placeholder="pancard number" name="number" id="pan" required>
+    <br>
+
+     <label for="name"><b>name</b></label>
     <input type="text" placeholder="Enter name" name="name" id="name" required>
     <br>
 
